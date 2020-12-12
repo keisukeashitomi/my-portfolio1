@@ -1,7 +1,8 @@
 
 # 学校課題制作物
 
-#Planning / Design / HTML,CSS / jQuery / 
+#Planning / Design / HTML,CSS / jQuery /　　
+
 #コンセプト　
 具志川高校のウェブページを、シンプルかつクールなデザインにアレンジしました。また、jQueryのコードを自分で書いて、動きをつけました。
 
